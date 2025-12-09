@@ -1,0 +1,64 @@
+body {
+    background-color: #000000;
+    min-height: 275vh;
+    
+}
+
+h1{
+    text-align: center;;
+    color: #1aff00;
+    margin: 40px 0;
+    font-size: 40px;
+    margin-top: 2em; 
+}
+
+button {
+    background-color: #1aff00;
+    color: #fdfbfb;
+    text-align: right;
+    padding: 10px 20px;
+    border: none;
+}
+
+.navbar {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.navbar a, .navbar i {
+    color: #29fe04;
+}
+
+.headerSpace {
+    margin-top: 10em;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.col {
+    color:#1aff00;
+    font-weight: bold;
+}
+
+h5 {
+    color: #1aff00;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #000000;
+    color: #1aff00;              
+    padding: 20px 0;             
+    margin-top: 50px;            
+    text-align: left;          
+    font-weight: bold;           
+}
+
+h2 {
+    color: #1aff00;
+    font-weight: bold;
+    text-align: right;
+}

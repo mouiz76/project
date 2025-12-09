@@ -1,0 +1,101 @@
+html, body {
+    min-height: 50vh;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000000;
+    display: 50vh;
+    flex-direction: column;
+}
+
+
+h1 {
+    text-align: center;
+    color: #1aff00;
+    margin: 40px 0;
+    font-size: 40px;
+    margin-top: 2em; 
+}
+
+
+button {
+    background-color: #1aff00;
+    color: #fdfbfb;
+    text-align: right;
+    padding: 10px 20px;
+    border: none;
+}
+
+.navbar {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.navbar a, .navbar i {
+    color: #29fe04;
+}
+
+.headerSpace {
+    margin-top: 10em;
+}
+
+
+img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.col {
+    color: #1aff00;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+h5 {
+    color: #1aff00;
+    font-weight: bold;
+}
+
+.footer {
+    width: 100%;            
+    background-color: #000000;
+    color: #1aff00;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: auto;
+}
+
+
+h2 {
+    color: #1aff00;
+    font-weight: bold;
+    text-align: right;
+}
+
+p {
+    color: #1aff00;
+    font-weight: bold;
+    text-align: left;
+}
+
+.movies {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.movie-box {
+    text-align: center;
+}
+
+.movie-title {
+    color: #1aff00;
+    font-weight: bold;
+    margin-top: 10px;
+}

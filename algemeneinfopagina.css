@@ -1,3 +1,20 @@
 .footer {
     text-align: bottom;
 }
+
+p {
+    font-size: 18px;
+    line-height: 1.9;
+    color: #1aff00;
+    margin-bottom: 10px;
+    text-align: left;
+    max-width: 500px;
+}
+
+h5 {
+    background-color: rgb(71, 75, 78);
+    max-width: 500px;
+    color: #1aff00;
+    font-weight: bold;
+    margin-bottom: 8px;
+}

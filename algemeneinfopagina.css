@@ -43,3 +43,17 @@ summary {
   margin-bottom: 20px;
   text-align: left;
 }
+
+.two-columns {
+  display: flex;
+  gap: 30px;
+}
+
+.column {
+  flex: 1;
+}
+
+.column img {
+  width: 100%;
+  border-radius: 10px;
+}

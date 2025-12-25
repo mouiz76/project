@@ -27,3 +27,19 @@ summary {
     text-align: left;
     max-width: 500px;
 }
+
+
+.block {
+  background-color: #1a1a1a;
+  padding: 30px;
+  margin: 40px auto;
+  max-width: 900px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.block h2 {
+  color: #00ff00;
+  margin-bottom: 20px;
+  text-align: left;
+}

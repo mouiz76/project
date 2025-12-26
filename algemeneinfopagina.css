@@ -57,3 +57,10 @@ summary {
   width: 100%;
   border-radius: 10px;
 }
+
+.block h3 {
+    color: #1aff00;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+}

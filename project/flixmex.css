@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+.header{
+color: white;
+    text-align: center;
+
+}
+.btnFAQ{
+    width: 800px;
+    height: 30px;
+}
+
+h1{
+    color: #1aff00;
+}
+h2{
+    color: #1aff00;
+}
